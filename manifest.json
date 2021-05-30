@@ -1,0 +1,12 @@
+{
+	"name": "Notes Extension",
+	"description": "This extension will aid you take notes",
+	"version": "1.0",
+	"manifest_version": 2,
+
+	"browser_action":
+	{
+		"default_icon": "tree.png",
+		"default_popup": "popup.html"
+	}
+}
